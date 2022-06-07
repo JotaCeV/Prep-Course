@@ -1,0 +1,65 @@
+body{
+    background-image: url("https://www.teahub.io/photos/full/281-2818013_neon-sunset-wallpaper-engine.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+h1 {
+    color:rgb(255, 255, 255);
+    font-family: 'Bungee', cursive;
+}
+
+h3, h4 {
+    color:rgb(255, 255, 255);
+}
+
+img {
+    width: 400px;
+}
+
+.divClass {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 7px;
+    font-weight: 550;
+    text-shadow: 8px 8px 20px black,8px 8px 20px black;
+    line-height: 24px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: rgb(235, 55, 208);
+    padding: 50px;
+    border: 7px ridge rgba(38, 27, 117, 0.862);
+    border-radius: 14px;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.divClass a{
+    background-color: #fff;
+    padding: 5px;
+    border: 3px solid gray;
+    text-shadow: none;
+}
+
+b{
+    margin-right: 6px;
+}
